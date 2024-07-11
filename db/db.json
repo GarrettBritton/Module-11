@@ -1,6 +1,27 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "title": "Take out the trash ",
+    "text": "take out the trash on Tuesday night ",
+    "id": "1720717392428"
+  },
+  {
+    "title": "Homework ",
+    "text": "homework is due on Thursday ",
+    "id": "1720717420352"
+  },
+  {
+    "title": "Dinner ",
+    "text": "Dinner plans with family on Friday ",
+    "id": "1720717436929"
+  },
+  {
+    "title": "Birthday Party ",
+    "text": "Have to go buy balloons before party ",
+    "id": "1720717464394"
+  },
+  {
+    "title": "Christmas in July",
+    "text": "Company Christmas party is on the 15th ",
+    "id": "1720717527196"
+  }
 ]
